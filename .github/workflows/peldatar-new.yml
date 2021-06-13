@@ -34,7 +34,7 @@ jobs:
       if: always()
       continue-on-error: true
       with:
-        ref: gh-pages
+        ref: ./testproject/gh-pages
         path: ./testproject/gh-pages
         
     - name: Allure Report action from marketplace
