@@ -1,0 +1,82 @@
+{
+  "0e93b819cc2e8121f7281dc8e4eaaf78" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4decbe2b4095e7c8",
+      "reportUrl" : "https://gofreeka.github.io/selenium-py-peldatar/2//#testresult/4decbe2b4095e7c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624290411657,
+        "stop" : 1624290411658,
+        "duration" : 1
+      }
+    } ]
+  },
+  "753cdf21aa3257d3e2249d83346a13e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e70eb3ae1e70119e",
+      "reportUrl" : "https://gofreeka.github.io/selenium-py-peldatar/2//#testresult/e70eb3ae1e70119e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624290411656,
+        "stop" : 1624290411656,
+        "duration" : 0
+      }
+    } ]
+  },
+  "77caee529814bb5616db6b28df37c87c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a212c040050967a0",
+      "reportUrl" : "https://gofreeka.github.io/selenium-py-peldatar/2//#testresult/a212c040050967a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624290411655,
+        "stop" : 1624290411655,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0cc1fa42e1c19a0d3fd610d45c4ba65a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9fe564cb034a9a6",
+      "reportUrl" : "https://gofreeka.github.io/selenium-py-peldatar/2//#testresult/b9fe564cb034a9a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624290411652,
+        "stop" : 1624290411652,
+        "duration" : 0
+      }
+    } ]
+  }
+}
