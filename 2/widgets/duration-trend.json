@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 2,
+  "reportUrl" : "https://gofreeka.github.io/selenium-py-peldatar/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 50
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://gofreeka.github.io/selenium-py-peldatar/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 6
+  }
+} ]
